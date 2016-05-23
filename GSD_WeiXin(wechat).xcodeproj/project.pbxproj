@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04ED6D401C9AA8EC0010FC4D /* NHFPSLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED6D3F1C9AA8EC0010FC4D /* NHFPSLabel.m */; };
 		4814577E1C8AD85B004CA225 /* SDTimeLineRefreshHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4814577D1C8AD85B004CA225 /* SDTimeLineRefreshHeader.m */; };
 		481457821C8AD8B4004CA225 /* SDBaseRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 481457811C8AD8B4004CA225 /* SDBaseRefreshView.m */; };
 		48217F941C8D7AF400A10D64 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 48217F931C8D7AF400A10D64 /* AppDelegate.m */; };
@@ -159,6 +160,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04ED6D3E1C9AA8EC0010FC4D /* NHFPSLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHFPSLabel.h; sourceTree = "<group>"; };
+		04ED6D3F1C9AA8EC0010FC4D /* NHFPSLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHFPSLabel.m; sourceTree = "<group>"; };
 		4814577C1C8AD85B004CA225 /* SDTimeLineRefreshHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDTimeLineRefreshHeader.h; sourceTree = "<group>"; };
 		4814577D1C8AD85B004CA225 /* SDTimeLineRefreshHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDTimeLineRefreshHeader.m; sourceTree = "<group>"; };
 		481457801C8AD8B4004CA225 /* SDBaseRefreshView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDBaseRefreshView.h; sourceTree = "<group>"; };
@@ -888,6 +891,8 @@
 		99D692FD1C6B37C600DA97E1 /* Vender */ = {
 			isa = PBXGroup;
 			children = (
+				04ED6D3E1C9AA8EC0010FC4D /* NHFPSLabel.h */,
+				04ED6D3F1C9AA8EC0010FC4D /* NHFPSLabel.m */,
 				48EFF4481C7EAFDF009252A5 /* SDWebImage */,
 				48EFF42D1C7EAFBF009252A5 /* SDPhotoBrowser */,
 				48EFF4351C7EAFBF009252A5 /* SDRefeshView */,
@@ -1050,9 +1055,9 @@
 		99D693641C6B49EA00DA97E1 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				99D693781C6C9BB500DA97E1 /* EyeAnimationView */,
 				99D693661C6B4A4A00DA97E1 /* SDHomeTableViewCell.h */,
 				99D693671C6B4A4A00DA97E1 /* SDHomeTableViewCell.m */,
+				99D693781C6C9BB500DA97E1 /* EyeAnimationView */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -1228,7 +1233,7 @@
 				TargetAttributes = {
 					99D692BE1C6B36C300DA97E1 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = V4Q779DR3D;
+						DevelopmentTeam = HQ353LFGTA;
 					};
 					99D692D71C6B36C400DA97E1 = {
 						CreatedOnToolsVersion = 7.1;
@@ -1362,6 +1367,7 @@
 				48EFF4C81C7F2A7F009252A5 /* NSMutableAttributedString+MLLabel.m in Sources */,
 				99D693971C6F774B00DA97E1 /* SDChatTableViewCell.m in Sources */,
 				48EFF4791C7EAFDF009252A5 /* UIView+WebCacheOperation.m in Sources */,
+				04ED6D401C9AA8EC0010FC4D /* NHFPSLabel.m in Sources */,
 				48EFF4411C7EAFBF009252A5 /* SDPhotoBrowser.m in Sources */,
 				48EFF46E1C7EAFDF009252A5 /* SDWebImageDecoder.m in Sources */,
 				4814577E1C8AD85B004CA225 /* SDTimeLineRefreshHeader.m in Sources */,
@@ -1539,12 +1545,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Libing Deng (2S9LL953XD)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Libing Deng (2S9LL953XD)";
 				INFOPLIST_FILE = "GSD_WeiXin(wechat)/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gsdios.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.harry.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5b5cc25f-4e83-4ee4-9430-3cc1bdf3bfdb";
 			};
 			name = Debug;
 		};
@@ -1557,7 +1565,7 @@
 				INFOPLIST_FILE = "GSD_WeiXin(wechat)/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gsdios.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.harry.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

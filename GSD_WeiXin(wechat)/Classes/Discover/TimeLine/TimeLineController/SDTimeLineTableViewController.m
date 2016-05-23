@@ -38,6 +38,7 @@
 #import "SDTimeLineCellModel.h"
 
 #import "UITableView+SDAutoTableViewCellHeight.h"
+#import "NHFPSLabel.h"
 
 #define kTimeLineTableViewCellId @"SDTimeLineCell"
 
@@ -78,6 +79,10 @@
     self.tableView.tableHeaderView = headerView;
     
     [self.tableView registerClass:[SDTimeLineCell class] forCellReuseIdentifier:kTimeLineTableViewCellId];
+    
+    NHFPSLabel *_fpsLabel = [[NHFPSLabel alloc]initWithFrame:CGRectMake(100, 10, 60, 22)];
+    _fpsLabel.alpha = 1;
+    [self.navigationController.view addSubview:_fpsLabel];
 }
 
 - (void)viewDidAppear:(BOOL)animated
@@ -179,7 +184,7 @@
             model.picNamesArray = [temp copy];
         }
         
-        int commentRandom = arc4random_uniform(6);
+        int commentRandom = arc4random_uniform(20);
         NSMutableArray *tempComments = [NSMutableArray new];
         for (int i = 0; i < commentRandom; i++) {
             SDTimeLineCellCommentItemModel *commentItemModel = [SDTimeLineCellCommentItemModel new];

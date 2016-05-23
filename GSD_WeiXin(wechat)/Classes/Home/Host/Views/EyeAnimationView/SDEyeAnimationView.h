@@ -28,7 +28,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SDEyeAnimationView : UIView
+@interface SDEyeAnimationView : UIView 
 
 @property (nonatomic, assign) CGFloat progress;
 

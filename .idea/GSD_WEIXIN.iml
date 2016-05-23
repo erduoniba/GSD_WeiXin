@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)UITests/GSD_WeiXin_wechat_UITests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)UITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/AppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/Host/Views/SDDiscoverTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/Host/Views/SDDiscoverTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/Host/SDDiscoverTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/Host/SDDiscoverTableViewController.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/Host/SDDiscoverTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/TimeLineController/SDTimeLineTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/TimeLineController/SDTimeLineTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/CommentView/SDTimeLineCellCommentView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/CommentView/SDTimeLineCellCommentView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/TimeLineRefreshHeader/SDTimeLineRefreshHeader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/TimeLineRefreshHeader/SDTimeLineRefreshHeader.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/HeaderView/SDTimeLineTableHeaderView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/HeaderView/SDTimeLineTableHeaderView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/Cell/SDTimeLineCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/Cell/SDTimeLineCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/TimeLineRefreshFooter/SDTimeLineRefreshFooter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/TimeLineRefreshFooter/SDTimeLineRefreshFooter.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/PhotoContainer/SDWeiXinPhotoContainerView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Views/PhotoContainer/SDWeiXinPhotoContainerView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Model/SDTimeLineCellModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Discover/TimeLine/Model/SDTimeLineCellModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/WebViewController/SDWebViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/WebViewController/SDWebViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/GloabalDefines/GlobalDefines.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/SimpleCell/SDSimpleCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/SimpleCell/SDSimpleCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/ChatController/Views/SDChatTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/ChatController/Views/SDChatTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/ChatController/SDChatTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/ChatController/Models/SDChatModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/ChatController/Models/SDChatModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Common/ChatController/SDChatTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Me/Host/SDMeTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Me/Host/SDMeTableViewController.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Me/Host/SDMeTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/utils/AnalogDataGenerator/SDAnalogDataGenerator.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/utils/AnalogDataGenerator/SDAnalogDataGenerator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/ContactsSearchResultController/SDContactsSearchResultController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/ContactsSearchResultController/SDContactsSearchResultController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/Model/SDContactModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/Model/SDContactModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/SDContactsTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/Views/SDContactsTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/Views/SDContactsTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Contacts/Host/SDContactsTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Views/EyeAnimationView/SDEyeAnimationView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Views/EyeAnimationView/SDEyeAnimationView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Views/SDHomeTableViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Views/SDHomeTableViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Models/SDHomeTableViewCellModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Models/SDHomeTableViewCellModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Controllers/ShortVideoController/SDShortVideoController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Controllers/ShortVideoController/Views/SDShortVideoProgressView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Controllers/ShortVideoController/Views/SDShortVideoProgressView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Controllers/ShortVideoController/SDShortVideoController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Controllers/SDHomeTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Home/Host/Controllers/SDHomeTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/AppFrame/SDAppFrameTabBarController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/AppFrame/SDAppFrameTabBarController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDAutoLayout/UIView+SDAutoLayout.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDAutoLayout/UITableView+SDAutoTableViewCellHeight.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDAutoLayout/UIView+SDAutoLayout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDAutoLayout/UITableView+SDAutoTableViewCellHeight.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLEmojiLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLEmoji_Expression.bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLEmoji_ExpressionImage.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/TTTAttributedLabel/TTTAttributedLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/TTTAttributedLabel/TTTAttributedLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLEmoji_Expression.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLEmojiLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Helper/MLLabel+Override.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Helper/MLLabelLayoutManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Helper/MLLabelLayoutManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/MLLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/MLTextAttachment.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/NSAttributedString+MLExpression.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/MLTextAttachment.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/NSAttributedString+MLExpression.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/MLExpressionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/NSString+MLExpression.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/MLExpressionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Expression/NSString+MLExpression.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/MLLinkLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/MLLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Category/NSAttributedString+MLLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Category/NSString+MLLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Category/NSMutableAttributedString+MLLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Category/NSAttributedString+MLLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Category/NSMutableAttributedString+MLLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/Category/NSString+MLLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/Classes/MLLinkLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/README.md" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/MLEmojiLabel/MLLabel/LICENSE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/NHFPSLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageDownloaderOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageCompat.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageCompat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImageView+WebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageDownloader.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImageView+HighlightedWebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImagePrefetcher.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageDownloader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImageView+HighlightedWebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImage+WebP.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImage+WebP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/MKAnnotationView+WebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImagePrefetcher.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/MKAnnotationView+WebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImage+MultiFormat.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImage+MultiFormat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIButton+WebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImageView+WebCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIButton+WebCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageDownloaderOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/NSData+ImageContentType.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIView+WebCacheOperation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDImageCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageDecoder.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/NSData+ImageContentType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImage+GIF.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIView+WebCacheOperation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDImageCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/SDWebImageDecoder.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDWebImage/UIImage+GIF.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/NHFPSLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefreshHeaderView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefreshView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/UIView+SDExtension.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefreshHeaderView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefresh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/UIView+SDExtension.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefreshFooterView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/sdRefeshView_arrow@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefreshView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDRefeshView/SDRefreshFooterView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDWaitingView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDPhotoBrowser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDPhotoBrowser.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDBrowserImageView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDBrowserImageView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDWaitingView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/Vender/SDPhotoBrowser/SDPhotoBrowserConfig.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/BaseClasses/BaseRefreshView/SDBaseRefreshView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/BaseClasses/BaseRefreshView/SDBaseRefreshView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/BaseClasses/SDBaseTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/BaseClasses/SDBaseNavigationController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/BaseClasses/SDBaseTableViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Classes/BaseClasses/SDBaseNavigationController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/Me.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/test/test3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/test/test1.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/test/test4.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/test/test2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/test/test0.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/tx.jpeg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/Discover.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/icon3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/icon2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/icon1.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/16.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/10.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/4.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/18.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/9.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/8.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/15.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/6.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/13.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/12.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/1.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/0.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/23.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/22.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/14.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/20.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/21.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/5.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/11.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/17.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/7.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/icon0.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/19.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/cell_icons/icon4.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/Images.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/Home.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic5.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic1.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic8.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic6.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic2.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic7.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic3.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pbg.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic4.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/pic0.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/TimeLineImages/picon.jpg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Others/Resources/Images/Contacts.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/main.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)/AppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)Tests/GSD_WeiXin_wechat_Tests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GSD_WeiXin(wechat)Tests/Info.plist" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.2/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.2/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
